@@ -112,16 +112,13 @@ Q(t+1)=T′Q(t)+TQ(t)′
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: NARESH.M
 RegisterNumber: 212223220064 
-*/
-![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/c8477cd1-b182-4d38-812b-eb4b94003b93)
-![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/6a4135c4-c12c-4e16-ade0-860ccdc805bb)
-3.JK FLIP FLOP
-![Screenshot 2024-01-01 223527](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/c4a327c7-7ac4-47da-9f36-0a39fc9144b4)
-![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/9cae6a8e-8134-4cb8-8395-2fa25a67ecdd)
+*/program:
 
+![Screenshot 2024-01-02 174408](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/2c49a231-711d-4ffd-9409-0c51348769a9)
 
+![Screenshot 2024-01-02 174733](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f129e074-51ee-4702-9599-a83740876e5e)
 
-
+![Screenshot 2024-01-02 174345](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/dfc25c4b-7764-4bb2-95b5-552af92c60e8)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
@@ -129,30 +126,18 @@ RegisterNumber: 212223220064
 ![Screenshot 2024-01-02 081956](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f96d1fae-7978-459b-a3d6-745a1e2b4c48)
 ![Screenshot 2024-01-02 082222](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/5e7c87b7-5eaa-4e34-8013-c67b33a7d649)
 ![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/6b398023-6658-4a37-a260-007107c6eab9)
-
-
-
-
-
-
-
-
-
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-1)SR flip flop
 
-image
-2)D flip flop
+![Screenshot 2024-01-02 172827](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/0efcc688-7f37-4548-b9b9-5c85f9bdf771)
 
-image
-3)JK flip flop
+![Screenshot 2024-01-02 173120](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/38db0741-8306-415b-9017-1b3f7e7c42ee)
 
-image
-4)T flip flop
-
-image
+ 
 
 
 
 
 ### RESULTS 
+Thus implementation of SR, JK, D and T flipflops using nand gates are done sucessfully.
+
+
