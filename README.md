@@ -121,16 +121,18 @@ RegisterNumber: 212223220064
 ![Screenshot 2024-01-02 174345](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/dfc25c4b-7764-4bb2-95b5-552af92c60e8)
 
 
-### RTL LOGIC FOR FLIPFLOPS 
-![Screenshot 2024-01-01 231208](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f51dec01-ad1f-4b60-9cb6-19c536c1d1f3)
-![Screenshot 2024-01-02 081956](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f96d1fae-7978-459b-a3d6-745a1e2b4c48)
-![Screenshot 2024-01-02 082222](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/5e7c87b7-5eaa-4e34-8013-c67b33a7d649)
-![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/6b398023-6658-4a37-a260-007107c6eab9)
+### RTL LOGIC FOR FLIPFLOPS :
+![Screenshot 2024-01-02 181604](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/4a7771e0-e9ec-41b9-a167-861335035536)
+![Screenshot 2024-01-02 181613](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/c56b9f6f-680f-4e3f-97a0-f432da791a6a)
+
+
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 ![Screenshot 2024-01-02 172827](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/0efcc688-7f37-4548-b9b9-5c85f9bdf771)
 
-![Screenshot 2024-01-02 173120](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/38db0741-8306-415b-9017-1b3f7e7c42ee)
+D Flipflop:
+
+![Screenshot 2024-01-02 180149](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/3e91da60-08cc-42b9-9bcc-26dc0d5f9871)
 
  
 
