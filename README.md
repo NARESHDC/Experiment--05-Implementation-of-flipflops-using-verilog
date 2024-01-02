@@ -102,16 +102,22 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+/* write all the steps invloved */![Screenshot 2024-01-01 223104](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/b982acda-4a5e-4c96-834b-d24985ef11d6)
+
 
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NARESH.M
+RegisterNumber: 212223220064 
 */
+![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/c8477cd1-b182-4d38-812b-eb4b94003b93)
+![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/6a4135c4-c12c-4e16-ade0-860ccdc805bb)
+3.JK FLIP FLOP
+![Screenshot 2024-01-01 223527](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/c4a327c7-7ac4-47da-9f36-0a39fc9144b4)
+![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/9cae6a8e-8134-4cb8-8395-2fa25a67ecdd)
 
 
 
@@ -119,6 +125,10 @@ RegisterNumber:
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+![Screenshot 2024-01-01 231208](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f51dec01-ad1f-4b60-9cb6-19c536c1d1f3)
+![Screenshot 2024-01-02 081956](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/f96d1fae-7978-459b-a3d6-745a1e2b4c48)
+![Screenshot 2024-01-02 082222](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/5e7c87b7-5eaa-4e34-8013-c67b33a7d649)
+![image](https://github.com/NARESHDC/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348388/6b398023-6658-4a37-a260-007107c6eab9)
 
 
 
@@ -129,10 +139,18 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+1)SR flip flop
 
+image
+2)D flip flop
 
+image
+3)JK flip flop
 
+image
+4)T flip flop
 
+image
 
 
 
